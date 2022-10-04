@@ -12,7 +12,7 @@ The following queries will shed some light on house sales and features of an ide
 2. Is there an observable trend of house sales across the year ?
 
 ### Approach
-At first, I tried to gain an understanding of the data and identified variables of interest. I cleaned the data by formating columns and dealing with duplicates and null values. Afterwards, I visualised some relationships with our target variable (price) to get a sense of correlation and begun to build regression models upon this. 
+I tried to gain an understanding of the data and identified variables of interest. I cleaned the data by formating columns and dealing with duplicates and null values. Afterwards, I visualised some relationships with our target variable (price) to get a sense of correlation and begun to build regression models upon this. 
 
 
 
